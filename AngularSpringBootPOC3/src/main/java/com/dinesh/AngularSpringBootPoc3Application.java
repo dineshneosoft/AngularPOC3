@@ -1,13 +1,13 @@
-package com.dinesh.SpringBootWithAngular;
+package com.dinesh;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootWithAngularApplication {
+public class AngularSpringBootPoc3Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootWithAngularApplication.class, args);
+		SpringApplication.run(AngularSpringBootPoc3Application.class, args);
 	}
 
 }
